@@ -1,0 +1,21 @@
+Yiru Xiao
+11179963
+yix604
+
+Assignment 2 Question 2 Execution Instruction
+<Yiru Xiao> <11179963>
+Operating System: <linux>
+Programming Language: <python>
+
+Execution step:
+You need to decompression my zip file,
+then when you run the program, my folder name: CMPT317A2,
+and you can go to this directory to run the program.
+The file name is Tester.py(all the test in this python file)
+
+YRdeMacBook-Pro:~ yrx$ cd PycharmProjects
+YRdeMacBook-Pro:PycharmProjects yrx$ cd CMPT317A4
+YRdeMacBook-Pro:CMPT317A2 yrx$ python a4q5.py
+
+
+Note: The program can be run
